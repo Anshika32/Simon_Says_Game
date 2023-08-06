@@ -1,0 +1,77 @@
+body {
+    text-align: center;
+    background-color: #5e548e;
+    background-image: url(Simon_bg.jpg);
+    background-size: cover;
+}
+
+h2 {
+    color: #00ff9e;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+h1 {
+    color: #0a8f5c;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+span {
+    color: red;
+}
+
+.btn {
+    height: 150px;
+    width: 150px;
+    border: 10px solid rgb(159, 142, 142);
+    border-radius: 20%;
+    margin: 2rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.yellow {
+    background-color: #f99b45;
+}
+
+.red {
+    background-color: #d95980;
+}
+
+.green {
+    background-color: #89ff08 ;
+}
+
+.purple {
+    background-color: #63aac0;
+}
+
+.flash {
+    background-color: white;
+}
+
+.userflash {
+    background-color: green;
+}
+
+button {
+    border: 2px solid rgb(78, 78, 159);
+    height: 50px;
+    width: 120px;
+    background-color: #b8c0ff;
+    box-shadow: 2px 2px 8px rgb(77, 77, 208);
+    font-size: 30px;
+    font-weight: bolder;
+    color: #0c1db0;
+}
+
+button:hover {
+    width: 130px;
+    height: 60px;
+    font-size: 40px;
+    font-weight: bolder;
+}
